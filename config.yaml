@@ -1,0 +1,3 @@
+code_loader: file
+file_loader:
+  dir: ./serverless_funcs
